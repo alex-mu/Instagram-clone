@@ -67,4 +67,4 @@ class UserDetailView(DetailView):
         return context
 
 
-# Create your views here.
+
